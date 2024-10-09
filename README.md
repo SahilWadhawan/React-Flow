@@ -10,6 +10,14 @@ This project is a simple implementation of a React Flow application, created as 
 - Light and dark theme toggle
 - Responsive design
 
+## Running Project
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/188ed5e8-551b-48f8-b84c-8cf59acecea0" alt="Image 1" width="45%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- This will add space between the images -->
+  <img src="https://github.com/user-attachments/assets/675225ce-6779-4f5e-83c0-1148ffa3fab3" alt="Image 2" width="45%" />
+</p>
+
 ## Running the Project Locally
 
 To run this project on your local machine, follow these steps:
