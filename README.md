@@ -1,6 +1,6 @@
 # Basic React Flow Editor
 
-This project is a simple implementation of a React Flow application, created as part of an internship Assignment at IDEAS TIH, ISI Kolkata. It demonstrates the basic functionality of React Flow, including node creation, drag-and-drop capabilities, and displaying node properties. The application features a clean, intuitive interface with a light/dark theme toggle for enhanced user experience.
+This project is a simple implementation of a React Flow application, created as part of an Internship Assignment at IDEAS TIH, ISI Kolkata. It demonstrates the basic functionality of React Flow, including node creation, drag-and-drop capabilities, and displaying node properties. The application features a clean, intuitive interface with a light/dark theme toggle for enhanced user experience.
 
 ## Key Features
 
